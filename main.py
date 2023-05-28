@@ -1,5 +1,5 @@
 # python3
-
+#Jekabs Kindzulis, 18.gr, 211RDC047
 
 class Query:
     def __init__(self, query):
